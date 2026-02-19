@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #
-echo " installing nginx"
+echo " installing nginx for you"
 sudo apt-get update -y
 
 sudo apt install nginx -y
